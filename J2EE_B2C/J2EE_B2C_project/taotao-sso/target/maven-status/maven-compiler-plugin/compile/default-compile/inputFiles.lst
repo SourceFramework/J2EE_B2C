@@ -1,0 +1,7 @@
+/home/mbc1996/eclipse_workspace/taotao-sso/src/main/java/com/taotao/sso/controller/PageController.java
+/home/mbc1996/eclipse_workspace/taotao-sso/src/main/java/com/taotao/sso/dao/impl/ClusterJedisClient.java
+/home/mbc1996/eclipse_workspace/taotao-sso/src/main/java/com/taotao/sso/controller/UserController.java
+/home/mbc1996/eclipse_workspace/taotao-sso/src/main/java/com/taotao/sso/dao/JedisClient.java
+/home/mbc1996/eclipse_workspace/taotao-sso/src/main/java/com/taotao/sso/dao/impl/PooledJedisClient.java
+/home/mbc1996/eclipse_workspace/taotao-sso/src/main/java/com/taotao/sso/service/UserService.java
+/home/mbc1996/eclipse_workspace/taotao-sso/src/main/java/com/taotao/sso/service/impl/UserServiceImpl.java

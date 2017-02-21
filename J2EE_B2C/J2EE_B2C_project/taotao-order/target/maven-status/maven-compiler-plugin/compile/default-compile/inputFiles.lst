@@ -1,0 +1,7 @@
+/home/mbc1996/eclipse_workspace/taotao-order/src/main/java/com/taotao/order/dao/impl/PooledJedisClient.java
+/home/mbc1996/eclipse_workspace/taotao-order/src/main/java/com/taotao/order/pojo/Order.java
+/home/mbc1996/eclipse_workspace/taotao-order/src/main/java/com/taotao/order/service/impl/OrderServiceImpl.java
+/home/mbc1996/eclipse_workspace/taotao-order/src/main/java/com/taotao/order/controller/OrderController.java
+/home/mbc1996/eclipse_workspace/taotao-order/src/main/java/com/taotao/order/dao/impl/ClusterJedisClient.java
+/home/mbc1996/eclipse_workspace/taotao-order/src/main/java/com/taotao/order/service/OrderService.java
+/home/mbc1996/eclipse_workspace/taotao-order/src/main/java/com/taotao/order/dao/JedisClient.java
